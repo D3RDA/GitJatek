@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fujitsu\\Desktop\\Szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. F\u00E9l\u00E9v\\C#\\Gyakorlo\\JatekMindenest\u0151l\\CharacterManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D74A39B2-DA3C-46AF-BF7D-A0AC9E031B64}|CharacterManager.csproj|c:\\users\\fujitsu\\desktop\\szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. f\u00E9l\u00E9v\\c#\\gyakorlo\\jatekmindenest\u0151l\\charactermanager\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D74A39B2-DA3C-46AF-BF7D-A0AC9E031B64}|CharacterManager.csproj|solutionrelative:main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74A39B2-DA3C-46AF-BF7D-A0AC9E031B64}|CharacterManager.csproj|c:\\users\\fujitsu\\desktop\\szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. f\u00E9l\u00E9v\\c#\\gyakorlo\\jatekmindenest\u0151l\\charactermanager\\fight.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D74A39B2-DA3C-46AF-BF7D-A0AC9E031B64}|CharacterManager.csproj|solutionrelative:fight.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74A39B2-DA3C-46AF-BF7D-A0AC9E031B64}|CharacterManager.csproj|c:\\users\\fujitsu\\desktop\\szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. f\u00E9l\u00E9v\\c#\\gyakorlo\\jatekmindenest\u0151l\\charactermanager\\fight.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74A39B2-DA3C-46AF-BF7D-A0AC9E031B64}|CharacterManager.csproj|solutionrelative:fight.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74A39B2-DA3C-46AF-BF7D-A0AC9E031B64}|CharacterManager.csproj|c:\\users\\fujitsu\\desktop\\szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. f\u00E9l\u00E9v\\c#\\gyakorlo\\jatekmindenest\u0151l\\charactermanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74A39B2-DA3C-46AF-BF7D-A0AC9E031B64}|CharacterManager.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74A39B2-DA3C-46AF-BF7D-A0AC9E031B64}|CharacterManager.csproj|c:\\users\\fujitsu\\desktop\\szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. f\u00E9l\u00E9v\\c#\\gyakorlo\\jatekmindenest\u0151l\\charactermanager\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74A39B2-DA3C-46AF-BF7D-A0AC9E031B64}|CharacterManager.csproj|solutionrelative:main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74A39B2-DA3C-46AF-BF7D-A0AC9E031B64}|CharacterManager.csproj|c:\\users\\fujitsu\\desktop\\szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. f\u00E9l\u00E9v\\c#\\gyakorlo\\jatekmindenest\u0151l\\charactermanager\\characterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74A39B2-DA3C-46AF-BF7D-A0AC9E031B64}|CharacterManager.csproj|solutionrelative:characterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74A39B2-DA3C-46AF-BF7D-A0AC9E031B64}|CharacterManager.csproj|c:\\users\\fujitsu\\desktop\\szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. f\u00E9l\u00E9v\\c#\\gyakorlo\\jatekmindenest\u0151l\\charactermanager\\charactereditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74A39B2-DA3C-46AF-BF7D-A0AC9E031B64}|CharacterManager.csproj|solutionrelative:charactereditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74A39B2-DA3C-46AF-BF7D-A0AC9E031B64}|CharacterManager.csproj|c:\\users\\fujitsu\\desktop\\szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. f\u00E9l\u00E9v\\c#\\gyakorlo\\jatekmindenest\u0151l\\charactermanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D74A39B2-DA3C-46AF-BF7D-A0AC9E031B64}|CharacterManager.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74A39B2-DA3C-46AF-BF7D-A0AC9E031B64}|CharacterManager.csproj|c:\\users\\fujitsu\\desktop\\szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. f\u00E9l\u00E9v\\c#\\gyakorlo\\jatekmindenest\u0151l\\charactermanager\\charactereditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D74A39B2-DA3C-46AF-BF7D-A0AC9E031B64}|CharacterManager.csproj|solutionrelative:charactereditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74A39B2-DA3C-46AF-BF7D-A0AC9E031B64}|CharacterManager.csproj|c:\\users\\fujitsu\\desktop\\szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. f\u00E9l\u00E9v\\c#\\gyakorlo\\jatekmindenest\u0151l\\charactermanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D74A39B2-DA3C-46AF-BF7D-A0AC9E031B64}|CharacterManager.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74A39B2-DA3C-46AF-BF7D-A0AC9E031B64}|CharacterManager.csproj|c:\\users\\fujitsu\\desktop\\szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. f\u00E9l\u00E9v\\c#\\gyakorlo\\jatekmindenest\u0151l\\charactermanager\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74A39B2-DA3C-46AF-BF7D-A0AC9E031B64}|CharacterManager.csproj|solutionrelative:character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74A39B2-DA3C-46AF-BF7D-A0AC9E031B64}|CharacterManager.csproj|c:\\users\\fujitsu\\desktop\\szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. f\u00E9l\u00E9v\\c#\\gyakorlo\\jatekmindenest\u0151l\\charactermanager\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74A39B2-DA3C-46AF-BF7D-A0AC9E031B64}|CharacterManager.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fight.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Fujitsu\\Desktop\\Szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. F\u00E9l\u00E9v\\C#\\Gyakorlo\\JatekMindenest\u0151l\\CharacterManager\\Fight.xaml.cs",
+              "RelativeDocumentMoniker": "Fight.xaml.cs",
+              "ToolTip": "C:\\Users\\Fujitsu\\Desktop\\Szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. F\u00E9l\u00E9v\\C#\\Gyakorlo\\JatekMindenest\u0151l\\CharacterManager\\Fight.xaml.cs",
+              "RelativeToolTip": "Fight.xaml.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:00:50.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CharacterService.cs",
+              "DocumentMoniker": "C:\\Users\\Fujitsu\\Desktop\\Szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. F\u00E9l\u00E9v\\C#\\Gyakorlo\\JatekMindenest\u0151l\\CharacterManager\\CharacterService.cs",
+              "RelativeDocumentMoniker": "CharacterService.cs",
+              "ToolTip": "C:\\Users\\Fujitsu\\Desktop\\Szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. F\u00E9l\u00E9v\\C#\\Gyakorlo\\JatekMindenest\u0151l\\CharacterManager\\CharacterService.cs",
+              "RelativeToolTip": "CharacterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:05:59.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fight.xaml",
+              "DocumentMoniker": "C:\\Users\\Fujitsu\\Desktop\\Szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. F\u00E9l\u00E9v\\C#\\Gyakorlo\\JatekMindenest\u0151l\\CharacterManager\\Fight.xaml",
+              "RelativeDocumentMoniker": "Fight.xaml",
+              "ToolTip": "C:\\Users\\Fujitsu\\Desktop\\Szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. F\u00E9l\u00E9v\\C#\\Gyakorlo\\JatekMindenest\u0151l\\CharacterManager\\Fight.xaml",
+              "RelativeToolTip": "Fight.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-18T11:00:18.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.xaml",
+              "DocumentMoniker": "C:\\Users\\Fujitsu\\Desktop\\Szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. F\u00E9l\u00E9v\\C#\\Gyakorlo\\JatekMindenest\u0151l\\CharacterManager\\Main.xaml",
+              "RelativeDocumentMoniker": "Main.xaml",
+              "ToolTip": "C:\\Users\\Fujitsu\\Desktop\\Szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. F\u00E9l\u00E9v\\C#\\Gyakorlo\\JatekMindenest\u0151l\\CharacterManager\\Main.xaml",
+              "RelativeToolTip": "Main.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-18T10:17:56.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Fujitsu\\Desktop\\Szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. F\u00E9l\u00E9v\\C#\\Gyakorlo\\JatekMindenest\u0151l\\CharacterManager\\Main.xaml.cs",
+              "RelativeDocumentMoniker": "Main.xaml.cs",
+              "ToolTip": "C:\\Users\\Fujitsu\\Desktop\\Szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. F\u00E9l\u00E9v\\C#\\Gyakorlo\\JatekMindenest\u0151l\\CharacterManager\\Main.xaml.cs",
+              "RelativeToolTip": "Main.xaml.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T10:26:26.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Fujitsu\\Desktop\\Szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. F\u00E9l\u00E9v\\C#\\Gyakorlo\\JatekMindenest\u0151l\\CharacterManager\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Fujitsu\\Desktop\\Szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. F\u00E9l\u00E9v\\C#\\Gyakorlo\\JatekMindenest\u0151l\\CharacterManager\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAADUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:51:24.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CharacterEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Fujitsu\\Desktop\\Szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. F\u00E9l\u00E9v\\C#\\Gyakorlo\\JatekMindenest\u0151l\\CharacterManager\\CharacterEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CharacterEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Fujitsu\\Desktop\\Szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. F\u00E9l\u00E9v\\C#\\Gyakorlo\\JatekMindenest\u0151l\\CharacterManager\\CharacterEditWindow.xaml.cs",
+              "RelativeToolTip": "CharacterEditWindow.xaml.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:54:46.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Fujitsu\\Desktop\\Szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. F\u00E9l\u00E9v\\C#\\Gyakorlo\\JatekMindenest\u0151l\\CharacterManager\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Fujitsu\\Desktop\\Szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. F\u00E9l\u00E9v\\C#\\Gyakorlo\\JatekMindenest\u0151l\\CharacterManager\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-17T17:51:21.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\Fujitsu\\Desktop\\Szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. F\u00E9l\u00E9v\\C#\\Gyakorlo\\JatekMindenest\u0151l\\CharacterManager\\Character.cs",
+              "RelativeDocumentMoniker": "Character.cs",
+              "ToolTip": "C:\\Users\\Fujitsu\\Desktop\\Szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. F\u00E9l\u00E9v\\C#\\Gyakorlo\\JatekMindenest\u0151l\\CharacterManager\\Character.cs",
+              "RelativeToolTip": "Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:06:45.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CharacterEditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Fujitsu\\Desktop\\Szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. F\u00E9l\u00E9v\\C#\\Gyakorlo\\JatekMindenest\u0151l\\CharacterManager\\CharacterEditWindow.xaml",
+              "RelativeDocumentMoniker": "CharacterEditWindow.xaml",
+              "ToolTip": "C:\\Users\\Fujitsu\\Desktop\\Szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. F\u00E9l\u00E9v\\C#\\Gyakorlo\\JatekMindenest\u0151l\\CharacterManager\\CharacterEditWindow.xaml",
+              "RelativeToolTip": "CharacterEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-17T17:50:55.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Fujitsu\\Desktop\\Szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. F\u00E9l\u00E9v\\C#\\Gyakorlo\\JatekMindenest\u0151l\\CharacterManager\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Fujitsu\\Desktop\\Szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. F\u00E9l\u00E9v\\C#\\Gyakorlo\\JatekMindenest\u0151l\\CharacterManager\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-17T18:06:31.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Fujitsu\\Desktop\\Szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. F\u00E9l\u00E9v\\C#\\Gyakorlo\\JatekMindenest\u0151l\\CharacterManager\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Fujitsu\\Desktop\\Szoftver fejlesz\u00E9t \u00E9s tesztel\u00E9s\\2. F\u00E9l\u00E9v\\C#\\Gyakorlo\\JatekMindenest\u0151l\\CharacterManager\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T18:06:39.832Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

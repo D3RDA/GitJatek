@@ -1,0 +1,79 @@
+﻿<Window x:Class="CharacterManager.CharacterEditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CharacterManager"
+        mc:Ignorable="d"
+        Title="Edit Character" Height="450" Width="400">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Text="ID:" Grid.Row="0" Grid.Column="0" Margin="0,0,10,5" VerticalAlignment="Center" />
+        <TextBox x:Name="IdTextBox"
+                 Grid.Row="0"
+                 Grid.Column="1" 
+                 Margin="0,0,0,5"
+                 IsReadOnly="True"/>
+
+        <TextBlock Text="Name:" Grid.Row="1" Grid.Column="0" Margin="0,0,10,5" VerticalAlignment="Center" />
+        <TextBox x:Name="NameTextBox"
+                Grid.Row="1"
+                Grid.Column="1" 
+                Margin="0,0,0,5" />
+
+        <TextBlock Text="Class:" Grid.Row="2" Grid.Column="0" Margin="0,0,10,5" VerticalAlignment="Top" />
+        <ComboBox x:Name="ClassComboBox"
+                  Grid.Row="2"
+                  Grid.Column="1"
+                  Margin="0,0,0,5"
+                  ItemsSource="{Binding AvailableClasses}"
+                  SelectedItem="{Binding Character.Class, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+
+        <TextBlock Text="Dmg:" Grid.Row="3" Grid.Column="0" Margin="0,0,10,5" VerticalAlignment="Center" />
+        <TextBox x:Name="DmgTextBox"
+                Grid.Row="3"
+                Grid.Column="1" 
+                Margin="0,0,0,5" />
+
+        <TextBlock Text="Hp:" Grid.Row="4" Grid.Column="0" Margin="0,0,10,5" VerticalAlignment="Center" />
+        <TextBox x:Name="HpTextBox"
+                Grid.Row="4"
+                Grid.Column="1" 
+                Margin="0,0,0,5" />
+
+        <TextBlock Text="Created At:" Grid.Row="5" Grid.Column="0" Margin="0,0,10,5" VerticalAlignment="Center" />
+        <TextBox x:Name="CreatedAtTextBox"
+                Grid.Row="5"
+                Grid.Column="1" 
+                Margin="0,0,0,5"
+                IsReadOnly="True"/>
+
+        <StackPanel Grid.Row="7" Grid.Column="0" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button Content="Save"
+                    Click="SaveButton_Click"
+                    Margin="5,0"
+                    Padding="10,5"/>
+            <Button Content="Cancel"
+                     Click="CancelButton_Click"
+                     Margin="5,0"
+                     Padding="10,5"/>
+        </StackPanel>
+
+    </Grid>
+</Window>
