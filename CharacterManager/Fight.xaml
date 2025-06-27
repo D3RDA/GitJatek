@@ -1,0 +1,46 @@
+﻿<Window x:Class="CharacterManager.FightWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Epic Fight" Height="450" Width="700"
+        WindowStartupLocation="CenterOwner"
+        Background="#1E1E2F"
+        FontFamily="Segoe UI">
+
+    <Grid Margin="20">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="2*" />
+        </Grid.ColumnDefinitions>
+
+        <!-- Left Character Panel -->
+        <StackPanel Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" >
+            <Border Background="#2D2F41" CornerRadius="15" Padding="20" Width="250" >
+                <StackPanel>
+                    <TextBlock x:Name="LeftName" FontSize="26" FontWeight="Bold" Foreground="#FFD700" TextAlignment="Center" TextWrapping="Wrap" Text="Left Hero" />
+                    <!-- Class megjelenítése -->
+                    <TextBlock x:Name="LeftClass" FontSize="16" FontStyle="Italic" Foreground="#CCCCCC" TextAlignment="Center" Margin="0,4,0,0" Text="Warrior"/>
+                    <ProgressBar x:Name="LeftHpBar" Height="25" Maximum="100" Value="100" Margin="0,15,0,0" Foreground="#FF4C4C" Background="#4A4A5E" />
+                </StackPanel>
+            </Border>
+        </StackPanel>
+
+        <TextBlock Grid.Column="1" Text="VS" FontSize="48" FontWeight="Black" Foreground="#FF4C4C" VerticalAlignment="Center" HorizontalAlignment="Center" />
+
+        <!-- Right Character Panel -->
+        <StackPanel Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Border Background="#2D2F41" CornerRadius="15" Padding="20" Width="250">
+                <StackPanel>
+                    <TextBlock x:Name="RightName" FontSize="26" FontWeight="Bold" Foreground="#4CD6FF" TextAlignment="Center" TextWrapping="Wrap" Text="Right Hero" />
+                    <!-- Class megjelenítése -->
+                    <TextBlock x:Name="RightClass" FontSize="16" FontStyle="Italic" Foreground="#CCCCCC" TextAlignment="Center" Margin="0,4,0,0" Text="Mage"/>
+                    <ProgressBar x:Name="RightHpBar" Height="25" Maximum="100" Value="100" Margin="0,15,0,0" Foreground="#4CD6FF" Background="#4A4A5E" />
+                </StackPanel>
+            </Border>
+        </StackPanel>
+
+        <Button Content="Harc!" Grid.ColumnSpan="3" Height="50" Margin="0,30,0,0" VerticalAlignment="Bottom"
+                Background="#FF4C4C" Foreground="White" FontWeight="Bold" FontSize="18"
+                Cursor="Hand" Click="FightButton_Click" />
+    </Grid>
+</Window>
